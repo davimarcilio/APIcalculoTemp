@@ -1,0 +1,17 @@
+{
+  "name": "tempcalculator",
+  "version": "1.0.0",
+  "description": "Api to convert temperatures between Celsius, Fahrenheit and Kelvin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Temperature",
+    "Celsius",
+    "Fahrenheit",
+    "Kelvin"
+  ],
+  "author": "Davi Marcilio",
+  "license": "ISC"
+}
