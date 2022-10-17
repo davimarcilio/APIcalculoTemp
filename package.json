@@ -6,11 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davimarcilio/APIcalculoTemp"
+  },
   "keywords": [
     "Temperature",
     "Celsius",
     "Fahrenheit",
-    "Kelvin"
+    "Kelvin",
+    "Calculator",
+    "Temp",
+    "Fisics",
+    "Object"
   ],
   "author": "Davi Marcilio",
   "license": "ISC"
