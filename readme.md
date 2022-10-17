@@ -1,6 +1,6 @@
 <h1>Temperature Calculator</h1>
 <h2>How to install?</h2>
-<p>const temperatura = require('dpstermina')</p>
+<p>const temperatura = require('tempcalculator')</p>
 <h3>How to use?</h3>
 <p>Use the functions, <strong>C(temperature)</strong> to convert Celsius to Fahrenheit and Kelvin,
 <strong>F(temperature)</strong> to convert Fahrenheit to Celsius and Kelvin,
